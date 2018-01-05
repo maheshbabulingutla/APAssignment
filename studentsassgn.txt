@@ -1,0 +1,412 @@
+223968930       BRYANT,JOEL M                           C       M       U        5      SYCAMORE                        IL      60198           N               B10
+222901129       SNELL,HALLIE K                          C       F       U        5      MCHENRY                         IL      60050           N               B10
+222904418       GRUBAR,RYNE M                           C       F       M        5      DEKALB                          IL      60115           N               B10
+222904840       BURR,MARIAH E                           C       F       U        5      ROCHELLE                        IL      61068           N               B10
+222905863       TAYLOR,CHRISTOPHER D                    C       M       U        5      CRESTON                         IL      60113           N               B10
+222908962       SANFILIPPO,JAIME L                      C       F       U        5      DEKALB                          IL      60115           N               B10
+222908889       WEDEL,JASON D                           C       M       U        5      SYCAMORE                        IL      60198           N               B10
+222948611       LOVEJOY,DAVID R                         C       M       U        5      SYCAMORE                        IL      60198           N               B10
+445588110       MICKLEY,SUSAN D                         C       F       U        5      ROCHELLE                        IL      61068           N               B10
+445681099       INDERHEES,CATHY J                       C       F       M        5      DEKALB                          IL      60115           N               B10
+445626129       O'DONNELL,DONNA M                       C       F       U        2      SYCAMORE                        IL      60198           N               B10
+445668684       AUSTIN,DAWN M                           C       F       U        4      DEKALB                          IL      60115           N               B10
+223669048       ROGERS,SHARESA L                        C       F       U        5      DEKALB                          IL      60115           N               B10
+223681113       BEAMSLEY,JOHANNA A                      C       F       U        5      SYCAMORE                        IL      60198           N               B10
+223682692       LENDAVERDE,HEATHER L                    C       F       U        5      DEKALB                          IL      60115           N               B10
+223909884       COVINGTON,CHANTILLE N                   C       F       U        3      PEORIA                          IL      61614           N               B10
+223631382       DUDEK,ROBERT A                          C       M       U        4      BURBANK                         IL      60458           N               B10
+223631695       STIFF,ROGER D                           C       M       U        3      CHICAGO                         IL      60884           N               B10
+223632161       BOYD,JERMAINE T                         C       M       U        3      CHICGO                          IL      60880           N               B10
+223638928       MACONAGHY,SHANNON L                     C       F       M        5      SHABBONA                        IL      60550           N               B10
+223621986       JENKINS,KESHAUN N                       C       F       U        3      HARVEY                          IL      60426           N               B10
+223639849       WHITE,BRENTON L                         C       M       U        2      MOMENCE                         IL      60854           N               B10
+223629100       COOPER,KARL D                           C       M       U        3      CHICAGO                         IL      60651           N               B10
+223988810       CHRESTMAN,ADAM J                        C       M       U        5      ROCHELLE                        IL      61068           N               B10
+223988622       KRUEGER,MICHAEL S                       C       M       U        5      LOMBARD                         IL      60148           N               B10
+223966365       TOKARZ,RYAN J                           C       M       U        5      NAPERVILLE                      IL      60588           N               B10
+562901884       SCOTT,LEE W                             C       M       U        5      SYCAMORE                        IL      60198           N               B10
+562901868       PFAU,BETH A                             C       F       U        5      SERENA                          IL      60548           N               B10
+562902881       LLOYD,CURTIS L                          C       M       U        3      HOFFMAN ESTATES                 IL      60184           N               B10
+562903846       LEMUS,DANIELA V                         C       F       U        4      STERLING                        IL      61081           N               B10
+562905828       SCHLOSSER,SARAH                         C       F       M        5      COMPTON                         IL      61318           N               B10
+562922881       FURMAN,WILLIAM C                        C       M       U        5      ROCHELLE                        IL      61068           N               B10
+562923012       MACPARTLAND,LISA K                      C       F       U        5      DEKALB                          IL      60115           N               B10
+562923842       MORRIS,MEGAN J                          C       F       U        5      SYCAMORE                        IL      60198           N               B10
+222142918       NEFF,KIM M                              C       F       M        5      CLARE                           IL      60111           N               B10
+222988183       CAGLE,LISA S                            C       F       U        5      ROCHELLE                        IL      61068           N               B10
+222988841       DANIELS,MARTIN G                        C       M       U        5      SUBLETTE                        IL      61369           N               B10
+223660066       HANSON,LENA R                           C       F       M        3      DEKALB                          IL      60115           N               B10
+223662816       CALVIN,KWAME                            C       M       M        3      DEKALB                          IL      60115           N               B10
+223688409       LEERHOFF,MILDORA L                      C       F       M        5      DEKALB                          IL      60115           N               B10
+563638850       POWELL,ANDRE D                          C       M       U        3      DEKALB                          IL      60115           N               B10
+563639030       JACKSON,CONICIA R                       C       F       U        3      DEKALB                          IL      60115           N               B10
+563639608       MCCALL,VERONICA F                       C       F       U        3      DEKALB                          IL      60115           N               B10
+563638288       ABDALLAH,LUBNA                          C       F       U        5      CRESTON                         IL      60113           N               B10
+563961896       POTTER,JOSHUA                           C       M       U        5      SYCAMORE                        IL      60198           N               B10
+563962303       BROWN,CHRISTOPHER A                     C       M       U        5      SYCAMORE                        IL      60198           N               B10
+563988884       PIERCE,VERONICA                         C       F       U        3      CHICAGO                         IL      60608           N               B10
+563969821       MCCHRISTION,MALGUSTER                   C       M       U        3      CHICAGO                         IL      60888           N               B10
+563988100       HART,HEATHER A                          C       F       U        5      SHABBONA                        IL      60550           N               B10
+563982888       HYDE,BRITTANY S                         C       F       U        5      ROCHELLE                        IL      61068           N               B10
+563989862       ORTIZ,VANESSA N                         C       F       U        4      CHICAGO                         IL      60622           N               B10
+563281686       MILLER,RYAN F                           C       M       U        5      DEKALB                          IL      60115           N               B10
+562901526       HOFFHINES,CASEY A                       C       M       U        5      SYCAMORE                        IL      60198           N               B10
+291984504       FISHER,FRANCISCO L                      C       M       U        5      DEKALB                          IL      60115           N               B10
+291801914       HOERCHLER,LAURA D                       C       F       U        5      SYCAMORE                        IL      60198           N               B10
+291808838       SMITH II,WALTER M                       C       M       U        3      CHICAGO                         IL      60651           N               B10
+291826215       CAWTHON,JOSEPH W                        C       M       U        5      BLOOMINGTON                     IL      61901           N               B10
+291828229       BENJAMIN,CEDRIC D                       C       M       U        3      CHICAGO                         IL      60653           N               B10
+291828829       PENCE,JOSEPH R                          C       M       U        5      DEKALB                          IL      60115           N               B10
+291849080       MOSLEY,AARON J                          C       M       U        3      SOUTH HOLLAND                   IL      60493           N               B10
+563689919       QUEST,MICHELLE                          C       F       M        5      ROCHELLE                        IL      61068           N               B10
+563902993       CHESKO,JOYCE J                          C       F       M        5      ROCHELLE                        IL      61068           N               B10
+563920415       GAFFINO,DESIREE N                       C       F       U        5      SOMONAUK                        IL      60552           N               B10
+563922104       SCHLINK JR,THOMAS S                     C       M       U        5      CHILLICOTHE                     IL      61523           N               B10
+563928886       SCHROEFFEL,CRISTIN M                    C       F       U        5      SYCAMORE                        IL      60198           N               B10
+563928929       KALATA,CASIMER J                        C       M       U        5      GENOA                           IL      60121           N               B10
+381845456       WALKER,GARETT R                         C       M       U        5      ROCHELLE                        IL      61068           N               B10
+381848294       HOWARD,RYAN M                           C       M       U        4      CRYSTAL LAKE                    IL      60014           N       PSW     PSM
+381848685       MARSHALL,JONATHANCODY A                 C       M       U        5      JACKSONVILLE                    IL      62650           N               B10
+291588900       MATARAGAS,PAMELA S                      C       F       M        5      DEKALB                          IL      60115           N               B10
+291921858       CARICO,JENNIFER M                       C       F       U        5      SYCAMORE                        IL      60198           N               B10
+291924111       LOGAN,LADONNA D                         C       F       U        3      DEKALB                          IL      60115           V               B10
+291922155       JACKSON,KENNETH P                       C       M       U        3      CHICAGO                         IL      60621           N               B10
+291926149       MATUSZEWSKI,LEAH S                      C       F       M        5      SYCAMORE                        IL      60198           N               B10
+291630818       KELLER,MICHAEL J                        C       M       U        5      DEKALB                          IL      60115           N               B10
+291621821       STEWART,DIANE K                         C       F       U        5      MOLINE                          IL      61265           N               B10
+291961953       JONES,ERIKA                             C       F       U        3      DE KALB                         IL      60115           N               B10
+291965884       BRESSON,CRAIG R                         C       M       U        5      PAW PAW                         IL      61213           N               B10
+291968423       WOLDEGEBRIEL,FANUS W                    C       F       U        3      CHICAGO                         IL      60880           N               B10
+381926310       CLARK,SAMUEL L                          C       M       U        5      ROCHELLE                        IL      61068           N               B10
+381928829       RICHARDS,JAMIE L                        C       M       M        5      STERLING                        IL      61081           N               B10
+381928861       HEREBIA,CRISTA S                        C       F       M        4      ROCHELLE                        IL      61068           N               B10
+381632683       MICHELKAMP,MELISSA L                    C       F       U        5      DEKALB                          IL      60115           N               B10
+381638842       OGUNDIPE,GEORGE A                       C       M       U        3      DEKALB                          IL      60115           N               B10
+381968406       ROSS,DEONDRE M                          C       M       U        3      CHICAGO                         IL      60880           N               B10
+381968826       FEITHEN,JARED C                         C       M       U        5      DEKALB                          IL      60115           N               B10
+381980638       FORRESTER,DENNIS W                      C       M       U        5      LEE                             IL      60530           N               B10
+381985838       CLEMENS,WILLIAM E                       C       M       U        5      PEKIN                           IL      61554           N               B10
+381989654       STAHL,RACHEL L                          C       F       U        5      ROCKFORD                        IL      61102           N               B10
+381223856       STAHL,MARY B                            C       F       U        5      ROCKFORD                        IL      61102           N               B10
+381802138       HAGLUND,JOHAN G                         C       M       U        5      DEKALB                          IL      60115           N               B10
+381802956       HOFFMAN,AMANDA P                        C       F       U        5      BURBANK                         IL      60458           N               B10
+381881680       JORDAL,DANE G                           C       M       U        5      ROCHELLE                        IL      61068           N               B10
+323982850       TORRES,SOPHIA                           C       F       U        4      CICERO                          IL      60804           N               B10
+323988883       HANSON,JENNIFER A                       C       F       U        5      DEKALB                          IL      60115           N               B10
+323222992       TURNER,JACK-LYNN C                      C       F       U        5      DIXON                           IL      61021           N               B10
+322920284       MEDINA,CLAIRE C                         C       F       U        4      KIRKLAND                        IL      60146           N               B10
+322981128       ROGERS,HEATHER L                        C       F       U        5      SYCAMORE                        IL      60198           N               B10
+322928850       GIBBS,DEREK M                           C       M       U        5      SYCAMORE                        IL      60198           N               B10
+322940156       SMITH,JACOB A                           C       M       U        5      ROCHELLE                        IL      61068           N               B10
+322940811       WALKER,JENNA L                          C       F       U        5      CORTLAND                        IL      60112           N               B10
+322942208       SHEARS,ADAM L                           C       M       U        3      EVERGREEN PARK                  IL      60805           N               B10
+322942283       POE,NATHANIEL G                         C       M       U        5      SYCAMORE                        IL      60198           N               B10
+381669618       OSMAN,KRISTINE K                        C       F       U        5      SYCAMORE                        IL      60198           N               B10
+322145581       MAVEUS,JEFFREY M                        C       M       M        5      CORTLAND                        IL      60112           N               B10
+322148000       LANE,PERRY C                            C       M       U        5      DEKALB                          IL      60115           N               B10
+322988008       BESLER,LINDA M                          C       F       M        5      KINGSTON                        IL      60145           N               B10
+323901360       WELLER,PATRICIA L                       C       F       M        5      DEKALB                          IL      60115           N               B10
+323904392       JONES,PAUL                              C       M       U        3      DEKALB                          IL      60115           N               B10
+323922880       CROYL,BONNIE L                          C       F       U        5      DEKALB                          IL      60115           N               B10
+323923841       QUENETT,ALISSA A                        C       F       U        5      KIRKLAND                        IL      60146           N               B10
+323922955       NASH,MADONNA K                          C       F       U        3      DE KALB                         IL      60115           N               B10
+323926206       WILLIAMS,DAMIEN D                       C       M       U        3      CHICAGO                         IL      60628           N               B10
+323639685       RODRIGUEZ,ABRAHAM                       C       M       U        4      ROCHELLE                        IL      61068           N               B10
+323969204       KOTSIOS,STEPHANIE N                     C       F       U        5      PALATINE                        IL      60063           N               B10
+323968563       NELSON,TONYA G                          C       F       U        3      DEKALB                          IL      60115           N               B10
+323968688       ROBINSON,NATHAN D                       C       M       U        3      DEKALB                          IL      60115           N               B10
+323982126       PETERSON,JESSICA                        C       F       U        5      CORTLAND                        IL      60112           N               B10
+322985318       PACKARD,KYLE O                          C       M       U        5      GENOA                           IL      60121           N               B10
+322223886       MEDINE,JUSTIN K                         C       M       U        5      ROCHELLE                        IL      61068           N               B10
+322222980       OBANDO,VALERIE M                        C       F       U        5      DEKALB                          IL      60115           N               B10
+322806296       GEORGE,LATRICE E                        C       F       U        3      LYNWOOD                         IL      60411           N               B10
+322808638       PETERSEN,ANTHONY R                      C       M       U        5      DEKALB                          IL      60115           N               B10
+322821628       PUTZSTUCK,RYAN D                        C       M       U        5      ROCHELLE                        IL      61068           N               B10
+322845015       JAKUBOWSKI,CHELSEA L                    C       F       U        5      STREAMWOOD                      IL      60109           N               B10
+322846388       WATSON,JOHN W                           C       M       U        5      DEKALB                          IL      60115           N               B10
+322849953       ESPE,APRIL E                            C       F       U        5      SHABBONA                        IL      60550           N               B10
+322882881       RULE,DARIUS M                           C       M       U        3      CHICAGO                         IL      60615           V               B10
+322808553       KOHLHAAS,LAUREN P                       C       F       U        5      DEKALB                          IL      60115           N               B10
+323880821       ALEXANDER,JOHN C                        C       M       M        0      ROSCOE                          IL      61093           N               B10
+323883889       DELANEY,CHESTERLENE A                   C       F       U        5      MACHESNEY PARK                  IL      61115           N               B10
+322688918       MARTINEZ,GUADALUPE T                    C       M       U        4      DEKALB                          IL      60115           N               B10
+322688313       GREENE,LAURA A                          C       F       U        5      WOOD DALE                       IL      60181           N               B10
+322903850       KALNICKY,JAIME R                        C       F       U        5      DEKALB                          IL      60115           V               B10
+322921600       ANAYA,ANGIE                             C       F       U        5      ROCHELLE                        IL      61068           N               B10
+322638830       BANKS,KAMAL M                           C       M       U        3      DEKALB                          IL      60115           N               B10
+322960912       COAN,STACY M                            C       F       U        5      ROCHELLE                        IL      61068           N               B10
+322988138       MCCONNELL,WAYBON T                      C       M       U        3      CHICAGO                         IL      60880           N               B10
+322988411       MERRICK,JACQUELINE                      C       F       U        5      SYCAMORE                        IL      60198           N               B10
+322968888       WILLIAMS,TYNISHA A                      C       F       U        3      DE KALB                         IL      60115           N               B10
+322966861       ADKINS,JESSICA L                        C       F       U        5      GENOA                           IL      60121           N               B10
+322982063       KHOOSHABEH,JACLYN                       C       F       U        5      MOUNT PROSPECT                  IL      60056           N               B10
+322983902       CHAMBERS,ASHLEY R                       C       F       U        5      CHAMPAIGN                       IL      61822           N               B10
+321988261       KIMBLE,QUINCY T                         C       M       U        3      DEKALB                          IL      60115           N               B10
+321988848       HOWARD,CARRIE A                         C       F       U        5      ROCHELLE                        IL      61068           N               B10
+321805102       REED,ABBY R                             C       F       U        5      SYCAMORE                        IL      60198           N               B10
+321808451       JOHNSON,LAURA M                         C       F       U        5      MALTA                           IL      60150           N               B10
+321808308       LEWIS,JASON A                           C       M       U        3      CHICAGO HEIGHTS                 IL      60411           N               B10
+321820896       MEYER,CHELSEA L                         C       F       U        5      WOODSTOCK                       IL      60088           N               B10
+321829862       BERYMON,SHENITA J                       C       F       U        3      CHICAGO                         IL      60612           N               B10
+321846009       FARMER,LAURA E                          C       F       U        5      DEKALB                          IL      60115           N               B10
+321849085       CHRISTENSON,DANIELLE L                  C       F       U        5      KIRKLAND                        IL      60146           N               B10
+321860820       YEATON,DYLAN A                          C       M       U        5      ROCHELLE                        IL      61068           N               B10
+322022668       KOTHARI,IPSITA H                        P       F       U        1      PLAINFIELD                      IL      60544           N               B10
+322606088       BAIRD-HELDT,THRESIA A                   C       F       M        5      DEKALB                          IL      60115           N               B10
+320981656       BONNELL,CARRIE E                        C       F       U        5      ROCHELLE                        IL      61068           N               B10
+320840564       HOFFHINES,AMY J                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+321686211       KOWITZ,TABITHA Y                        C       F       S        5      DEKALB                          IL      60115           N               B10
+321900160       KUSTER,RICHARD                          C       M       M        5      DEKALB                          IL      60115           N               B10
+321922850       AMBLER,EVA J                            C       F       U        0      MENDOTA                         IL      61382           N               B10
+321923901       AHEARN,ANGELA M                         C       F       U        5      MALTA                           IL      60150           N               B10
+321981038       ANDA,CHRISTINE M                        C       F       U        5      SYCMORE                         IL      60198           N               B10
+321630210       AUSTIN,DAVID J                          C       M       U        3      DOLTON                          IL      60418           N               B10
+321639841       ALEXANDER,SARAH J                       C       F       U        5      ROSCOE                          IL      61093           N               B10
+321629990       AUSTIN,KRISTI R                         C       F       M        5      MALTA                           IL      60150           N               B10
+321961443       HAWKINS,ASHLEY C                        C       F       U        3      SYCAMORE                        IL      60198           N               B10
+321963692       JOHNSON,CORA A                          C       F       U        3      DEKALB                          IL      60115           N               B10
+321963912       HOLLER,TARA                             C       F       S        3      SYCAMORE                        IL      60198           N               B10
+321982858       AUSTIN,TABITHA L                        C       F       U        5      DEKALB                          IL      60115           N               B10
+318802381       HALL,DARIUS J                           C       M       U        3      WILLOWBROOK                     IL      60529           N               B10
+320885536       DISMUKE,TYREE Q                         C       M       U        3      DEKALB                          IL      60115           N               B10
+320686145       FITZPATRICK,ERIC R                      C       M       U        3      DEKALB                          IL      60115           N               B10
+320906361       PORTER,TIFFANY L                        C       F       U        5      DEKALB                          IL      60115           N               B10
+320909869       DYER,AMY L                              C       F       U        5      DEKALB                          IL      60115           N               B10
+320908905       MANLEY,CHERYL M                         C       F       U        5      DEKALB                          IL      60115           N               B10
+320631280       SHAH,ANUP K                             C       M       U        1      DEKALB                          IL      60115           N               B10
+320621149       NUNZIATO,AARON                          C       M       U        5      HOMEWOOD                        IL      60430           N               B10
+320960813       FRIEL,MELISSA M                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+320965638       BROWN,ELLEN M                           C       F       M        5      SYCAMORE                        IL      60198           N               B10
+320968452       ALEXANDER,DANIELLE L                    C       F       U        3      CHICAGO                         IL      60628           N               B10
+318638088       CALVIN,KWTAY H                          C       F       U        3      CHICAGO                         IL      60638           N               B10
+318961398       ROGOWSKI,PATRICK S                      C       M       U        5      DEKALB                          IL      60115           N               B10
+318968821       KELLY,CLARENCE R                        C       M       U        3      CHICAGO                         IL      60628           N               B10
+318982180       KOCH,KEVIN W                            C       M       U        5      DEKALB                          IL      60115           N               B10
+318984893       MCCLENDON,EUGENE                        C       M       U        3      DEKALB                          IL      60115           N               B10
+318986218       HAMANN,KYLE O                           C       M       U        5      COAL CITY                       IL      60416           N               B10
+318800892       JENNINGS,KRYSTLE C                      C       F       U        0      CHICAGO                         IL      60618           N               B10
+318800812       AVES,DAWN R                             C       F       U        5      DE KALB                         IL      60115           N               B10
+318821388       FINNESTAD,NICOLE S                      C       F       U        5      ROCHELLE                        IL      61068           N               B10
+318881529       KINN,JOSHUA J                           C       M       U        5      FRANKLIN GROVE                  IL      61031           V               B10
+318828185       GRAY,BRANDON E                          C       M       U        3      DOLTON                          IL      60418           N               B10
+318828928       BROOKS,JACOB P                          C       M       U        5      FREEPORT                        IL      61032           N               B10
+318842992       BRADFORD,LINDSEY E                      C       F       U        5      ROCHELLE                        IL      61068           N               B10
+318843884       CHRISTOFFERSEN,JOSHUA J                 C       M       U        0      AMBOY                           IL      61310           N               B10
+318864129       GEBHARDT,HANNAH C                       C       F       U               DEKALB                          IL      60115           N               B10
+318684288       EVANS,CRANSTON V                        C       M       U        3      MARKHAM                         IL      60426           N               B10
+318909065       THOMAS,AVIS Z                           C       F       U        3      DEKALB                          IL      60115           N               B10
+318921892       MILLER,FORREST B                        C       M       U        5      AMBOY                           IL      61310           N               B10
+318629580       FEITHEN,COURTNEY B                      C       F       U        5      DEKALB                          IL      60115           N               B10
+318965488       THEISSING,NICOLE P                      C       F       U        5      CORTLAND                        IL      60112           N               B10
+318968980       STRALOW,MEGAN N                         C       F       U        5      PROPHETSTOWN                    IL      61299           N               B10
+318986136       WILLIAMS,LEE A                          C       F       U        5      ROCHELLE                        IL      61068           N               B10
+318809281       SMITH,AMANDA C                          C       F       M        5      MT. MORRIS                      IL      61054           N               B10
+318466820       KLEIN,MARY A                            C       F       U        5      DEKALB                          IL      60115           N               B10
+318921841       BIAS,EDWARD M                           C       M       U        3      CHICAGO                         IL      60652           N               B10
+318639562       ANDERSON,SHANNON V                      C       F       U        3      CALUMET CITY                    IL      60408           N               B10
+289509212       SELLS,CECIL L                           C       M       M        5      SYCAMORE                        IL      60198           N               B10
+281983698       DAVIDSON,ROBERT J                       C       M       U        5      PECATONICA                      IL      61063           N               B10
+288604581       TUCKER,CYNTHIA A                        C       F       U        4      DEKALB                          IL      60115           N               B10
+288848519       ESTLUND,ABIGAIL L                       C       F       U        5      SYCAMORE                        IL      60198           N               B10
+302808295       AMIN,TWINKLE                            C       F       U        1      BARTLETT                        IL      60103           N               B10
+302968149       HEREBIA,JOSE T                          C       M       M        4      ROCHELLE                        IL      61068           V               B10
+308881669       KOOKEN,BEATRICE                         C       F       M        5      DEKALB                          IL      60115           N               B10
+308866041       PEREZ,MICHELE D                         C       F       S        5      KINGS                           IL      61068           N               B10
+310066629       NYBORG,CRAIG A                          C       M       U        5      FORT WAYNE                      IN      46818           N               B10
+310822886       LAWRENCE,JOHN S                         C       M       U        5      INDIAPOPILIS                    IN      46229           N               B10
+315848836       YOUNG,KATHERINE N                       C       F       U        5      CLARE                           IL      60111           N               B10
+316985869       TAYLOR,STEPHANIE L                      C       F       U        5      CORTLAND                        IL      60112           N               B10
+318681929       HYDE,DEBRA M                            C       F       U        5      ROCHELLE                        IL      61068           N               B10
+318884104       CLARK,AMY G                             C       F       M        4      STEWARD                         IL      60553           N               B10
+318666988       SHANNON,STACY M                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+215118886       MILLER,NATHANIEL S                      C       M       U        5      SYCAMORE                        IL      60198           N               B10
+216298688       HOLLINGSHEAD,DANIEL R                   C       M       U        2      WATERMAN                        IL      60556           N               B10
+223881610       ADAMS,DAVID M                           C       M       U        5      SOUTH BELOIT                    IL      61080           N               B10
+281282983       ANGELOS,MICHELE L                       C       F       M        2      SYCAMORE                        IL      60198           N               B10
+229211855       JORGENSON,JOSHUA T                      C       M       U        0      OREGON                          IL      61061           N               B10
+231063050       BOOTHE,JUDITH A                         C       F       U        5      WATERMAN                        IL      60556           N               B10
+410138629       BROWN,CHRISTINE M                       C       F       U        5      ROCHELLE                        IL      61068           N               B10
+418514515       WALLEY,JESSICA L                        C       F       U        5      CORTLAND                        IL      60112           N               B10
+814818498       ZENG,YUPING                             P       F       U        1      ROCHELLE                        IL      61068           N               B10
+260593832       HICKEY,MICHAEL P                        C       M       U        5      ST. CHARLES                     IL      60195           N               B10
+269889581       DENES-GANION,BRANDY                     C       F       U        5      SYCAMORE                        IL      60198           N               B10
+295809369       LEARY,SEAN P                            C       M       U        5      DEKALB                          IL      60115           N               B10
+298639295       LAUER,JAMIE N                           C       F       U        5      KINGSTON                        IL      60145           N               B10
+038120903       DAVIS,ELAINE G                          C       F       M        5      SYCAMORE                        IL      60198           N               B10
+041608463       GAY,LAURIE J                            C       F       M        5      ROCHELLE                        IL      61068           N               B10
+050968914       LALOWSKI,DERICK P                       C       M       U        5      SYCAMORE                        IL      60198           N               B10
+062900888       KORFIAS,FRANK J                         C       M       U        5      DEKALB                          IL      60115           N               B10
+141928956       PELLETIER,KEITH P                       C       M       U        0      ROCHELLE                        IL      61068           N               B10
+181922150       PELLETIER,CHASE P                       C       M       U        0      ROCHELLE                        IL      61068           N               B10
+129169090       WALLACE,HOLLY M                         C       F       M        5      ROCHELLE                        IL      61068           N               B10
+151022088       DAINKEH,OSMAN                           C       M       U        3      DEKALB                          IL      60115           N               B10
+169660495       ROSE,BRANDI E                           C       F       U        3      DOLTON                          IL      60418           N               B10
+215656298       JOHNSON,DIANA                           C       F       S        3      NATIONAL CITY                   CA      81850           N               B10
+215118898       MILLER,CELESTE N                        C       F       U        5      SYCAMORE                        IL      60198           N               B10
+009982928       JONES,NICHOLA S                         C       F       M        5      CORTLAND                        IL      60112           N               B10
+216904612       GARZA,ELIZABETH C                       C       F       U        4      DEKALB                          IL      60115           N               B10
+216804450       MANN,MELESA J                           C       F       U        5      ROCHELLE                        IL      61068           N               B10
+219909068       JACOBO,MELISSA J                        C       F       U        4      ROCHELLE                        IL      61068           N               B10
+219632203       JOHNSON,JERI L                          C       F       U        5      DEKALB                          IL      60115           N               B10
+219638414       TORRES,EMMA S                           C       F       U        4      ROCHELLE                        IL      61068           N               B10
+218984614       BRIDGE,DANIELLE B                       C       F       U        5      SYCAMORE                        IL      60198           N               B10
+214903123       HILL,ONETHA L                           C       F       U        3      DEKALB                          IL      60115           N               B10
+215688808       BAGBY-BOUBELIK,RACHEL S                 C       F       M        5      MALTA                           IL      60150           N               B10
+215636564       MELENDEZ,CLAUDIA                        C       F       U        4      DEKALB                          IL      60115           N               B10
+210685831       KRICH,JESSICA R                         C       F       S        5      DEKALB                          IL      60115           N               B10
+210904898       RODRIGUEZ,ROBERT E                      C       M       M        4      DEKALB                          IL      60150           N               B10
+211638103       NELSON,LARRY                            C       M       U        3      DEKALB                          IL      60115           N               B10
+212988362       LARSEN,CARMEN M                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+385983623       TAYLOR,SHEREE M                         C       F       U        3      DEKALB                          IL      60115           N               B10
+386904883       HUERAMO,BILLY                           C       M       U        4      ROCHELLE                        IL      61068           N               B10
+386920186       POTT,JENNIFER P                         C       F       S        5      SYCAMORE                        IL      60198           N               B10
+386821304       FAY,ALVARO B                            C       M       U        4      DEERFIELD BEACH                 FL      56442           N               B10
+386826383       MIDDLETON,JEANETTE R                    C       F       U        5      ROCHELLE                        IL      61068           N               B10
+388636666       MOORE,JOYCE M                           C       F       U        3      DEKALB                          IL      60115           N               B10
+388586966       CONNER,PATRICIA A                       C       F       M        5      SYCAMORE                        IL      60198           N               B10
+382941488       WOFFORD,SUSIE L                         C       F       U        3      HAZEL CREST                     IL      60428           N               B10
+382808509       WATSON,JOHN T                           C       M       U        5      ROCHELLE                        IL      61068           N               B10
+382888066       GREWAL,NARINDERPAL S                    C       M       U        1      PALATINE                        IL      60063           N               B10
+384660504       BALDWIN,CRYSTAL A                       C       F       U        5      SYCAMORE                        IL      60198           N               B10
+384629383       OKWUMABUA,NKASIOBI                      C       M       U        3      ROCKFORD                        IL      61108           N               B10
+385920983       RANGEL,JESSICA                          C       F       M        4      MALTA                           IL      60150           N               B10
+568682606       OLIVER,MARKETA N                        C       F       U        3      DEKALB                          IL      60115           N               B10
+568921595       HINTZSCHE,KIMBERLY D                    C       F       U        5      ROCHELLE                        IL      61068           N               B10
+568985811       BERG,ALANEA R                           C       F       S        5      KINGSTON                        IL      60145           N               B10
+568841558       BLEDSOE,DAVID W                         C       M       U        3      DEKALB                          IL      60115           N               B10
+380985895       STOVER,LYDIA A                          C       F       U        5      ROCHELLE                        IL      61068           N               B10
+381928886       ACEVEDO JR.,PABLO                       C       M       U        4      DEKALB                          IL      60115           N               B10
+382666960       MCGEE,ANIKA N                           C       F       U        3      CHICAGO                         IL      60628           N               B10
+321963685       WALKER,DANA L                           C       F       S        5      SYCAMORE                        IL      60198           N               B10
+566636018       HARBIN,LEAH L                           C       F       U        3      DEKALB                          IL      60115           N               B10
+566802613       SPEAR,CYNTHIA L                         C       F       M        5      KIRKLAND                        IL      60146           V               B10
+566804129       SMITH,HEATHER A                         C       F       U        5      LEE                             IL      60530           N               B10
+569965292       ROBERTS,RACQUEL A                       C       F       U        3      DEKALB                          IL      60115           N               B10
+568621928       LONGO,JENNIFER A                        C       F       M        5      MT. MORRIS                      IL      61054           N               B10
+563902881       ALLEN,LATEDDRA M                        C       F       U        3      DEKALB                          IL      60115           N               B10
+562908100       LONGSWORTH,RODRIA J                     C       F       M        3      DEKALB                          IL      60115           N               B10
+562928639       LOGAN,TARA E                            C       F       M        0      DIXON                           IL      61021           N               B10
+564984818       CHASE,JEFFREY P                         C       M       U        5      ROCHELLE                        IL      61068           V               B10
+563904180       GONZALES,DIANA A                        C       F       U        4      ROCHELLE                        IL      61068           N               B10
+328845408       WARD,LISA M                             P       F       U        5      SYCAMORE                        IL      60198           N               B10
+560909808       PRICE,HADASAW A                         C       F       U        3      DEKALB                          IL      60115           N               B10
+560806291       HETTEL,BRANDON W                        C       M       U        5      MALTA                           IL      60150           V               B10
+328804812       DODSON,DIONE N                          C       F       U        5      SYCAMORE                        IL      60198           V               B10
+222946388       THAMES,RANDY T                          C       M       U        3      COUNTRY CLUB HIL                IL      60498           N               B10
+445506543       ZEKOFF,MIKE                             C       M       U        5      GENOA                           IL      60121           N               B10
+445903928       ARRINGTON,TARSHA L                      C       F       U        3      DEKALB                          IL      60115           N               B10
+445922865       COX,STACEY E                            C       F       M        5      DEKALB                          IL      60115           N               B10
+445822914       DICKSON,TARYN A                         C       F       U        5      ROCHELLE                        IL      61068           N               B10
+381888182       LEGASPI,CATHERINE R                     C       F       U        1      ROCKFORD                        IL      61108           N               B10
+291621044       NELSON,AARON P                          C       M       U        5      DEKALB                          IL      60115           N               B10
+291808581       PAUL,SARAH B                            C       F       U        5      SHABBONA                        IL      60550           N               B10
+291848283       ANTHONY,JENNA K                         C       F       U        3      DEKALB                          IL      60115           N               B10
+381968961       SCARBROUGH,KARI E                       C       F       U        5      DEKALB                          IL      60115           N               B10
+223656280       MASCOTE,SYLVIA                          C       F       U        4      DEKALB                          IL      60115           N               B10
+223621932       WHIRL,JAMIE M                           C       F       U        3      DEKALB                          IL      60115           N               B10
+322805129       BUTLER YOCUM,JENNIFER B                 C       F       M        5      FRANKLIN GROVE                  IL      61031           N               B10
+323682908       SALINAS,WENDY E                         C       F       S        5      DEKALB                          IL      60115           N               B10
+323941048       OGUNDIPE,FRED T                         C       M       M        3      DEKALB                          IL      60115           N               B10
+323981298       ARMSTRONG,BIANCA M                      C       F       U        3      JONESBORROW                     GA      30236           N               B10
+322928162       ROACH,CASSANDRA L                       C       F       U        5      DEKALB                          IL      60115           N               B10
+323808413       SUH,JOOHEE                              C       F       U        1      BELVIDERE                       IL      61008           N               B10
+381920552       DAVIS,PATRICK A                         C       M       U        3      CHICAGO                         IL      60621           N               B10
+381988505       BURNS,JERRY A                           C       M       U        3      CHICAGO                         IL      60608           N               B10
+320988885       HAWKINS,SARAH A                         C       F       U        5      DE KALB                         IL      60115           N               B10
+320803215       LONGSWORTH,DARWIN M                     C       M       M        5      DEKAB                           IL      60115           N               B10
+320805820       TUETKEN,CANDACE K                       C       F       S        5      ROCHELLE                        IL      61068           N               B10
+321928843       CRAIG,FELICIA L                         C       F       U        3      DEKALB                          IL      60115           N               B10
+322984021       BRASH,MELODY D                          C       F       M        5      MONROE CENTER                   IL      61052           N               B10
+318969218       ANDERSON,AMANDA L                       C       F       U        5      SANDWICH                        IL      60548           N               B10
+318636681       STUCKEY,TIFFANIE                        C       F       U        3      DEKALB                          IL      60115           N               B10
+318841041       SAGAR,SUNDEEP                           P       M       U        1      DEKALB                          IL      60115           N               B10
+320621011       SAMPSON,ANEA M                          C       F       U        5      DE KALB                         IL      60115           N               B10
+328803918       CLEMENTE,AMANDA M                       C       F       U        5      GENOA                           IL      60121           N               B10
+360848838       ERHART,CARRIE L                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+560960381       HARBECKE,SARAH E                        C       F       U        5      SYCAMORE                        IL      60198           N               B10
+210966881       HENKE,HAYLEE N                          C       F       U        5      SYCAMORE                        IL      60198           N               B10
+322981950       BENION,ARNETTA L                        C       F       U        3      CHICAGO                         IL      60889           N               B10
+321665585       HARRIS,MEDINAH N                        C       F       U        3      DEKALB                          IL      60115           N               B10
+596515656       BLUME,AMANDA K                          C       F       U        5      OREGON                          IL      61061           N               B10
+298962181       SENTHAVYSOUK,SOMPHET                    P       F       U        1      KIRKLAND                        IL      60146           N               B10
+284863083       ADEKANBI,EDWARD A                       C       M       U        3      CC HILLS                        IL      60498           N               B10
+600606891       HAENITSCH,JESSICA S                     C       F       U        5      PECATONICA                      IL      61063           N               B10
+603180815       TAVARES,MARCUS M                        C       M       U        4      DE KALB                         IL      60115           N               B10
+608101084       WILSON,TASHA J                          C       F       S        3      CHICAGO                         IL      60612           N               B10
+615638813       OTT,JOSHUA A                            C       M       U        5      DEKALB                          IL      60115           N               B10
+619288601       HUERAMO,MARIA P                         P       F       U        4      ROCHELLE                        IL      61068           N               B10
+618050983       FIELDS,CANDICE L                        C       F       U        3      DE KALB                         IL      60115           N               B10
+622888662       PATEL,VARSHA A                          P       F       U        1      ROMEOVILLE                      IL      60446           N               B10
+641904438       KEATING,KIMBERLY J                      C       F       M        5      MCHENRY                         IL      60050           N               B10
+628128861       TALLEY,SANDRA O                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+630288403       GUIJOSA,RICARDO                         P       M       U        4      ROCHELLE                        IL      61068           N               B10
+636148582       MAGANA,ROSARIO                          P       F       U        4      ROCHELLE                        IL      61068           N               B10
+883184486       CASTALDO,ASHLEY N                       C       F       U        5      PAW PAW                         IL      61213           N               B10
+584441880       CANTRELL,ERIN R                         C       F       M        5      ROCHELLE                        IL      61068           N               B10
+569663839       SHOOLL,BRIAN D                          C       M       U        5      DEKALB                          IL      60115           N               B10
+569818821       RODRIGUEZ,MELISSA A                     C       F       U        4      DEKALB                          IL      60115           N               B10
+568450621       HAMMERSTAD,NICOLE T                     C       F       U        5      DEKALB                          IL      60115           N               B10
+568582188       CARDOTT,HEATHER K                       C       F       U        5      CARBONDALE                      IL      62801           N               B10
+568595216       CARDOTT,TONYA R                         C       F       U        5      ROCHELLE                        IL      61068           N               B10
+591565683       DICKEY,DAVID W                          C       M       M        5      SYCAMORE                        IL      60198           N               B10
+563661532       ALDRIDGE,MICHELE L                      C       F       M        5      KINGS                           IL      61068           N               B10
+595918282       BUJARSKI,LORETA A                       C       F       M        1      DEKALB                          IL      60115           N               B10
+596159863       ANDERSON,SARA E                         C       F       U        3      SYCAMORE                        IL      60198           N               B10
+583880505       SOSA,LUCY                               C       F       U        4      DE KALB                         IL      60115           N               B10
+585821685       SOLIS,YENDI V                           C       F       U        4      DEKALB,IL                       IL      60115           N               B10
+580099888       KINDSTROM,MELISSA J                     C       F       U        5      DEKALB                          IL      60115           N               B10
+583140683       MCDONOUGH,JASON R                       C       M       U        5      NEW BADEN                       IL      62265           N               B10
+584386039       MORROW,BRANDI R                         C       F       M        5      ROCK ISLAND                     IL      61201           N               B10
+566551900       PIGG,ANGELA E                           C       F       M        4      SYCAMORE                        IL      60198           N               B10
+528888055       TUBBS,ALESHA B                          C       F       M        5      SYCAMORE                        IL      60198           N               B10
+532151893       HACKLER,THOMAS E                        C       M       U        5      SYCAMORE                        IL      60198           N               B10
+542066063       GENAW,JOEL M                            C       M       M        0      BELVIDERE                       IL      61008           N               B10
+548818954       FITCH,DERICO D                          C       M       U        3      HARVEY                          IL      60426           N               B10
+548858148       HOUSE,STEPHEN A                         C       M       U        5      STILLMAN VALLEY                 IL      61084           N               B10
+550880908       DOMINQUEZ,ALEXANDER P                   C       M       U        4      HATTIESBURG                     MS      38402           N               B10
+554586068       JOHNSON,DEMOND                          C       M       S        0      DEKALB                          IL      60115           N               B10
+555083842       MILLIRON,CHERYL A                       C       F       U        5      GENOA                           IL      60121           N               B10
+559636868       SHAH,ASEELAH D                          C       F       U        3      CHICAGO                         IL      60615           N               B10
+558856568       KOHN,JAMES P                            C       M       U        5      DEKALB                          IL      60115           N               B10
+562398888       TWEED,MERRY J                           C       F       U        5      ROCKFORD                        IL      61104           N               B10
+562184596       PILONI,DANA M                           C       F       M        5      ROCHELLE                        IL      61068           N               B10
+526836608       WALTER,REBECCA A                        C       F       S        5      DEKALB                          IL      60115           N               B10
+512823004       MALLOY,ROSE                             C       F       U        3      DE KALB                         IL      60115           N               B10
+514042883       HEDDING,TERESA Y                        C       F       U               DEKALB                          IL      60115           N               B10
+516028183       ELDER,LESLIE R                          C       F       U        5      DEKALB                          IL      60115           N               B10
+519158850       KRAUSE,JENNIFER D                       C       F       U        5      DE KALB                         IL      60115           N               B10
+521298289       LOPEZ,ROSA M                            C       F       M        4      ROCHELLE                        IL      61068           N               B10
+522812120       MCCHRISTY,CLAIRE L                      C       M       U        5      GENEVA                          IL      60138           N               B10
+528110580       CAMPBELL,LEANN                          C       F       U        5      ROCHELLE                        IL      61068           N               B10
+522951889       SEIBEL,SARA B                           C       F       U        5      IGNACIO                         CO      81139           N               B10
+523612206       MONTERO,JENNIFER MARDIS                 C       F       U        5      ROCHELLE                        IL      61068           N               B10
+541114515       MILLER,MICHAEL                          C       M       S        5      DEKALB                          IL      60115           N               B10
+541488853       HUNTER,ALEX M                           C       M       U        5      CORTLAND                        IL      60112           N               B10
+511989865       SWANSON,SHANNON R                       C       F       U        5      GENOA                           IL      60121           N               B10
+482195882       PROBST,KELBY P                          C       M       U        5      EFFINGHAM                       IL      64101           N               B10
+483082848       CROISANT,TIFFANY D                      C       F       M        5      DEKALB                          IL      60115           N               B10
+484060268       STEVENS,JULIA B                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+485029993       BERGER,HEATH A                          C       M       U        5      MORRIS                          IL      60450           N               B10
+485159836       TILLIS,TABBATHA                         C       F       U        5      STOCKTON                        IL      61085           N               B10
+489803912       WILBURN,BRIAN A                         C       M       U        5      MADISONVILLE                    KY      44131           N               B10
+481821219       SMOLEK,EMMA T                           C       F       M        5      DEKALB                          IL      60115           N               B10
+481820816       TAYLOR,HOLLY J                          C       F       U        5      ROCHELLE                        IL      61068           N               B10
+489861628       ORSTEAD,MEREDITH R                      C       F       U        5      DEKALB                          IL      60115           N               B10
+504132108       CALLAWAY,TARA D                         C       F       U        5      SHABBONA                        IL      60550           N               B10
+505138882       FIEHN,REBEKAH J                         C       F       U        5      SYCAMORE                        IL      60198           N               B10
+510806184       AMOS,KENJI A                            C       M       U        3      DEKALB                          IL      60115           N               B10
+482138840       MENSINGER,SHELLY L                      C       F       U        5      CAMANCHE                        IA      52930           N               B10
+462944282       NOVAK,PHILIP E                          C       M       U        5      CHICAGO                         IL      60660           N               B10
+496881588       HODGSON,JESSICA M                       C       F       U        5      ROCHELLE                        IL      61068           N               B10
+499021899       DECKER,JASON R                          C       M       M        5      MALTA                           IL      60150           N               B10
+499981629       MATTHEWS,GLENN D                        C       M       M        5      SYCAMORE                        IL      60198           N               B10
+498089114       GRAY,LACEY R                            C       F       U        5      ROCHELLE                        IL      61068           N               B10
+498136896       TILLIS,TARA M                           C       F       U        5      STOCKTON                        IL      61085           N               B10
+422291192       SHOULTZ,HEIDI A                         C       F       U        5      DEKALB                          IL      60115           N               B10
+480048882       GAINES,TONIA M                          C       F       U        5      DEKALB                          IL      60115           N               B10
+480060569       HUCK,KYLE V                             C       M       U        5      DEKALB                          IL      60115           N               B10
+481081282       GRIMES-HICKS,KRISTOPHER K               C       M       U        3      URBANDALE                       IA      50322           N               B10
+481136168       SHERIDAN,ERIN M                         C       F       U        5      CLINTON                         IA      52932           N               B10
+481865638       HOWELL,TYSON J                          C       M       M        5      ROCK ISLAND                     IL      61201           N               B10
+481869028       LONG,NICOLE M                           C       F       M        5      KINGS                           IL      61068           N               B10
+482138182       MAYER,ANGELA M                          C       F       M        5      DEKALB                          IL      60115           N               B10
