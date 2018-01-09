@@ -16,7 +16,7 @@ Features
 - Make things easier to get results
 
 Executing Steps
-- Copy it to the default home directory and make sure to use the example listed to run]
+- Copy it to the default home directory and make sure to use the example listed to run
 
 Steps involved while coding Assignment
 - Declared required variables to store the result
