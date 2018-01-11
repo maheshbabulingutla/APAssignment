@@ -54,78 +54,84 @@ function uf_sort_order(){
 	echo $current_dir
 	echo $3
 }
-
-#storing the counts for 1-3 parameters
-while IFS=: read -r -a var
-do
-        gender=${var:64:1};
-	nonIl=${var:120:2};
-	if [ "$gender" == "M" ]
-	then
-		((maleCount++))
-	else
-		((femaleCount++))
-	fi
-	if [ "$nonIl" != "IL" ]
-	then
-		((nonILCount++))
-	fi
-done <$1
-
-#displaying the respective count based on users choice
-if [ $2 == '1' ]
+file="$1"
+if [ -e $file ];
 then
-	echo "Male Count= $maleCount"
-fi
-if [ $2 == '2' ]
-then
-	echo "Female Count= $femaleCount"
-fi	
-if [ $2 == '3' ]
-then
-	echo "Non IL Count= $nonILCount"
-fi
-if [ $2 == '4' ]
-then
-	#allows user to select a column to sort and create new file
-	echo -n "Enter sort order option from 1-11 "
-	read response
-	if (( response > 0 && response < 12 ))
-	then
-		uf_sort_order $response $1 newFile.txt
-		#prompts user to select sorting as optional
-		echo -n "Do you still want to continue sorting file? 1-Yes/2-N0 "
-		read userChoice
-		if (($userChoice == 1 ))
+	#storing the counts for 1-3 parameters
+	while IFS=: read -r -a var
+	do
+       		gender=${var:64:1};
+		nonIl=${var:120:2};
+		if [ "$gender" == "M" ]
 		then
-			echo -n "Enter sort order option from 1-11 "
-			read response 
-			if ((response > 0 && response < 12))
-			then
-				uf_sort_order $response newFile.txt newFile2.txt
-			fi
-			# ask user if he still wants to sort
-			echo -n "Do you still want to continue sorting file? 1-Yes/2-No "
+			((maleCount++))
+		else
+			((femaleCount++))
+		fi
+		if [ "$nonIl" != "IL" ]
+		then
+			((nonILCount++))
+		fi
+	done <$1
+
+	#displaying the respective count based on users choice
+	if [ $2 == '1' ]
+	then
+		echo "Male Count= $maleCount"
+	fi
+	if [ $2 == '2' ]
+	then
+		echo "Female Count= $femaleCount"
+	fi	
+	if [ $2 == '3' ]
+	then
+		echo "Non IL Count= $nonILCount"
+	fi
+	if [ $2 == '4' ]
+	then
+		#allows user to select a column to sort and create new file
+		echo -n "Enter sort order option from 1-11 "
+		read response
+		if (( response > 0 && response < 12 ))
+		then
+			uf_sort_order $response $1 newFile.txt
+			#prompts user to select sorting as optional
+			echo -n "Do you still want to continue sorting file? 1-Yes/2-N0 "
 			read userChoice
-			if (($userChoice == 1))
+			if (($userChoice == 1 ))
 			then
-				echo -n "Enter the sort order option from 1-11 "
-				read response
+				echo -n "Enter sort order option from 1-11 "
+				read response 
 				if ((response > 0 && response < 12))
 				then
-					uf_sort_order $response newFile2.txt newFile3.txt
+					uf_sort_order $response newFile.txt newFile2.txt
+				fi
+				# ask user if he still wants to sort
+				echo -n "Do you still want to continue sorting file? 1-Yes/2-No "
+				read userChoice
+				if (($userChoice == 1))
+				then
+					echo -n "Enter the sort order option from 1-11 "
+					read response
+					if ((response > 0 && response < 12))
+					then
+						uf_sort_order $response newFile2.txt newFile3.txt
+					fi
+				else (($userChoice == 2))
+					echo -n $'You choose to quit!\n'
 				fi
 			else (($userChoice == 2))
-				echo -n "You choose to quit!"
+				echo -n $'You choose to quit!\n'
 			fi
-		else (($userChoice == 2))
-			echo -n "You choose to quit!"
+		else
+			echo -n $'Error Response. Please enter a valid option.\n'
 		fi
-	else
-		echo -n "Error Response. Please enter a valid option. "
 	fi
+else
+	echo "The file '$file' is not found."
+	exit
 fi
 if (($2 > 4))
 then
-	echo -n "Invalid Response. Please enter a valid option between 1-4 "
+	echo -n $'Invalid Response. Please enter a valid option between 1-4\n'
 fi
